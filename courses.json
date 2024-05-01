@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "Introduction to Computer Science",
+        "content": "This course covers the basics of computer science.",
+        "departmentId": 1
+    },
+    {
+        "id": 4,
+        "name": "John Doe",
+        "email": "john@example.com",
+        "password": "password123",
+        "departmentId": 2
+    }
+]
